@@ -1,14 +1,11 @@
 import "./App.css";
+import SimpleForm from "./SimpleForm";
 
 function App() {
   return (
     <>
-      <div>
-        <h2>hello</h2>
-        <h1>hello</h1>
-        <h3>helli</h3>
-      </div>
-      <h1>Esxplore React form</h1>
+      <h1>Explore React Form</h1>
+      <SimpleForm></SimpleForm>
     </>
   );
 }
